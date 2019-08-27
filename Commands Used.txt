@@ -1,6 +1,6 @@
 ##Image build:
 
-docker image build -t Image-name(Rex)
+docker image build -t Image-name(Rex) .
 
 #Container (As a daemon: Background):
 
